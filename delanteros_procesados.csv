@@ -1,0 +1,184 @@
+player,team,league,age,gls_per90,ast_per90,sh_per90,sot_pct,goals_per_shot,goals_per_sot,sot_per90
+Adriano Bertaccini,Anderlecht,BEL-Pro League,24,0.35,0.06,3.55,41.0,0.1,0.24,1.46
+Luis Vázquez,Anderlecht,BEL-Pro League,24,0.26,0.0,2.87,45.5,0.09,0.2,1.3
+Mihajlo Cvetković,Anderlecht,BEL-Pro League,18,0.5,0.11,2.33,52.4,0.21,0.41,1.22
+Thorgan Hazard,Anderlecht,BEL-Pro League,32,0.43,0.23,2.45,41.9,0.11,0.26,1.03
+Farouck Adekami,Antwerp,BEL-Pro League,18,0.16,0.16,2.77,45.7,0.06,0.13,1.27
+Gyrano Kerk,Antwerp,BEL-Pro League,29,0.13,0.17,2.16,32.0,0.06,0.19,0.69
+Marwan Al Sahafi,Antwerp,BEL-Pro League,21,0.07,0.0,1.3,26.3,0.05,0.2,0.34
+Vincent Janssen,Antwerp,BEL-Pro League,31,0.29,0.2,2.63,33.3,0.07,0.2,0.88
+Alan Minda,Cercle Brugge,BEL-Pro League,22,0.28,0.19,2.41,46.2,0.12,0.25,1.11
+Dante Vanzeir,Cercle Brugge,BEL-Pro League,27,0.22,0.22,2.47,45.5,0.09,0.2,1.12
+Oluwaseun Adewumi,Cercle Brugge,BEL-Pro League,20,0.28,0.0,3.22,42.1,0.09,0.21,1.36
+Oumar Diakité,Cercle Brugge,BEL-Pro League,21,0.44,0.0,2.46,46.2,0.15,0.33,1.14
+Steve Ngoura,Cercle Brugge,BEL-Pro League,20,0.3,0.17,3.12,33.3,0.07,0.21,1.04
+Antoine Colassin,Charleroi,BEL-Pro League,24,0.29,0.29,3.29,30.4,0.09,0.29,1.0
+Aurélien Scheidler,Charleroi,BEL-Pro League,27,0.28,0.12,2.0,36.9,0.12,0.33,0.74
+Christos Tzolis,Club Brugge,BEL-Pro League,23,0.5,0.67,3.61,35.8,0.11,0.32,1.29
+Hugo Vetlesen,Club Brugge,BEL-Pro League,25,0.35,0.42,2.51,38.9,0.14,0.36,0.98
+Mamadou Diakhon,Club Brugge,BEL-Pro League,19,0.0,0.79,1.8,18.8,0.0,0.0,0.34
+Nicolo Tresoldi,Club Brugge,BEL-Pro League,20,0.69,0.18,3.62,39.0,0.19,0.49,1.41
+Romeo Vermant,Club Brugge,BEL-Pro League,21,0.54,0.14,3.25,39.6,0.17,0.42,1.29
+Alireza Jahanbakhsh,Dender,BEL-Pro League,31,0.1,0.1,1.99,35.0,0.0,0.0,0.7
+Bruny Nsimba,Dender,BEL-Pro League,25,0.45,0.2,2.83,38.6,0.09,0.23,1.09
+David Hrnčár,Dender,BEL-Pro League,27,0.22,0.0,1.87,47.1,0.12,0.25,0.88
+David Toshevski,Dender,BEL-Pro League,24,0.24,0.0,2.37,30.8,0.1,0.33,0.73
+Mohamed Berte,Dender,BEL-Pro League,23,0.19,0.0,1.95,42.9,0.1,0.22,0.84
+Roman Květ,Dender,BEL-Pro League,27,0.18,0.0,1.31,29.7,0.14,0.45,0.39
+Aaron Bibout,Genk,BEL-Pro League,20,0.49,0.0,3.82,36.2,0.13,0.35,1.38
+Junya Itō,Genk,BEL-Pro League,32,0.3,0.25,1.78,45.7,0.17,0.38,0.81
+Konstantinos Karetsas,Genk,BEL-Pro League,17,0.0,0.4,2.74,39.7,0.0,0.0,1.09
+Oh Hyeon-gyu,Genk,BEL-Pro League,24,0.49,0.24,4.07,50.0,0.12,0.24,2.03
+Robin Mirisola,Genk,BEL-Pro League,18,0.29,0.15,2.47,35.3,0.12,0.33,0.87
+Yira Sor,Genk,BEL-Pro League,25,0.33,0.08,2.92,48.6,0.11,0.24,1.42
+Hyllarion Goore,Gent,BEL-Pro League,19,0.32,0.25,3.49,27.3,0.09,0.33,0.95
+Max Dean,Gent,BEL-Pro League,21,0.53,0.08,3.74,42.9,0.1,0.24,1.6
+Wilfried Kanga,Gent,BEL-Pro League,27,0.39,0.13,2.86,39.1,0.09,0.24,1.12
+Jerry Afriyie,La Louvière,BEL-Pro League,18,0.18,0.04,1.85,41.2,0.1,0.24,0.76
+Maxime Pau,La Louvière,BEL-Pro League,25,0.13,0.0,1.17,22.2,0.11,0.5,0.26
+Oucasse Mendy,La Louvière,BEL-Pro League,24,0.1,0.0,0.68,28.6,0.14,0.5,0.2
+Pape Moussa Fall,La Louvière,BEL-Pro League,21,0.56,0.05,3.15,37.1,0.16,0.43,1.17
+Benito Raman,Mechelen,BEL-Pro League,30,0.26,0.26,2.38,35.7,0.11,0.3,0.85
+Bilal Bafdili,Mechelen,BEL-Pro League,20,0.11,0.32,1.16,36.4,0.09,0.25,0.42
+Bouke Boersma,Mechelen,BEL-Pro League,20,0.2,0.2,1.57,47.8,0.13,0.27,0.75
+Kerim Mrabti,Mechelen,BEL-Pro League,31,0.2,0.12,1.18,33.3,0.17,0.5,0.39
+Lion Lauberbach,Mechelen,BEL-Pro League,27,0.29,0.05,2.32,52.1,0.13,0.24,1.21
+Myron van Brederode,Mechelen,BEL-Pro League,22,0.29,0.16,1.3,41.5,0.2,0.47,0.54
+Abdoul Karim Traoré,OH Leuven,BEL-Pro League,18,0.19,0.09,3.21,23.5,0.06,0.25,0.76
+Chukwubuikem Ikwuemesi,OH Leuven,BEL-Pro League,23,0.2,0.0,2.28,39.1,0.09,0.22,0.89
+Jovan Mijatović,OH Leuven,BEL-Pro League,20,0.0,0.12,1.87,26.7,0.0,0.0,0.5
+Mathieu Maertens,OH Leuven,BEL-Pro League,30,0.07,0.21,3.65,32.7,0.02,0.06,1.19
+Sory Kaba,OH Leuven,BEL-Pro League,30,0.34,0.11,2.31,31.7,0.12,0.38,0.73
+Thibaud Verlinden,OH Leuven,BEL-Pro League,26,0.12,0.25,1.24,50.0,0.1,0.2,0.62
+Youssef Maziz,OH Leuven,BEL-Pro League,27,0.13,0.17,2.15,24.0,0.06,0.25,0.52
+Andrés Ferrari,Sint-Truiden,BEL-Pro League,22,0.31,0.1,3.32,25.0,0.06,0.25,0.83
+Arbnor Muja,Sint-Truiden,BEL-Pro League,26,0.29,0.1,2.1,37.2,0.12,0.31,0.78
+Ilias Sebaoui,Sint-Truiden,BEL-Pro League,23,0.14,0.17,2.55,29.3,0.05,0.19,0.75
+Keisuke Gotō,Sint-Truiden,BEL-Pro League,20,0.34,0.22,1.94,40.3,0.15,0.36,0.78
+Adnane Abid,Standard Liège,BEL-Pro League,21,0.09,0.21,0.94,50.0,0.09,0.18,0.47
+Dennis Eckert,Standard Liège,BEL-Pro League,28,0.23,0.0,1.46,31.3,0.13,0.4,0.45
+Mohamed El Hankouri,Standard Liège,BEL-Pro League,28,0.0,0.0,0.85,33.3,0.0,0.0,0.28
+Rafiki Said,Standard Liège,BEL-Pro League,25,0.26,0.13,2.99,35.2,0.09,0.25,1.05
+Thomas Henry,Standard Liège,BEL-Pro League,30,0.2,0.13,1.06,37.5,0.13,0.33,0.4
+Timothée Nkada,Standard Liège,BEL-Pro League,26,0.29,0.07,1.81,40.0,0.12,0.3,0.72
+Anouar Ait El Hadj,Union SG,BEL-Pro League,23,0.07,0.17,1.47,32.6,0.05,0.14,0.48
+Besfort Zeneli,Union SG,BEL-Pro League,22,0.35,0.7,1.88,50.0,0.19,0.38,0.94
+Guilherme Smith,Union SG,BEL-Pro League,22,0.23,0.12,1.23,33.3,0.19,0.57,0.41
+Kevin Rodríguez,Union SG,BEL-Pro League,25,0.5,0.1,3.86,39.7,0.13,0.32,1.54
+Mateo Biondic,Union SG,BEL-Pro League,22,0.48,0.24,3.21,55.6,0.15,0.27,1.79
+Promise David,Union SG,BEL-Pro League,24,0.54,0.06,4.23,37.1,0.13,0.35,1.57
+Raul Florucz,Union SG,BEL-Pro League,24,0.52,0.22,3.5,31.9,0.11,0.33,1.12
+Nacho Ferri,Westerlo,BEL-Pro League,20,0.34,0.06,3.18,42.2,0.11,0.26,1.34
+Shunsuke Saito,Westerlo,BEL-Pro League,20,0.11,0.11,1.9,11.1,0.06,0.5,0.21
+Thomas Van den Keybus,Westerlo,BEL-Pro League,24,0.08,0.0,2.39,26.7,0.03,0.13,0.64
+Anosike Ementa,Zulte Waregem,BEL-Pro League,23,0.14,0.28,1.34,46.2,0.1,0.22,0.62
+Jeppe Erenbjerg,Zulte Waregem,BEL-Pro League,25,0.47,0.1,2.89,38.4,0.15,0.39,1.11
+Joseph Opoku,Zulte Waregem,BEL-Pro League,19,0.37,0.26,2.54,34.8,0.14,0.42,0.88
+Marley Aké,Zulte Waregem,BEL-Pro League,24,0.41,0.0,2.47,35.4,0.17,0.47,0.87
+Serxho Ujka,Zulte Waregem,BEL-Pro League,26,0.15,0.3,1.64,18.2,0.09,0.5,0.3
+Jon Guridi,Alavés,ESP-La Liga,30,0.0,0.0,1.09,26.7,0.0,0.0,0.29
+Lucas Boyé,Alavés,ESP-La Liga,29,0.51,0.05,2.9,33.3,0.13,0.38,0.97
+Toni Martínez,Alavés,ESP-La Liga,28,0.46,0.1,3.08,38.7,0.14,0.36,1.19
+Gorka Guruzeta,Athletic Club,ESP-La Liga,28,0.38,0.11,3.2,38.1,0.11,0.28,1.22
+Iñaki Williams,Athletic Club,ESP-La Liga,31,0.13,0.25,2.38,35.1,0.04,0.1,0.83
+Ademola Lookman,Atlético Madrid,ESP-La Liga,27,0.58,0.0,3.06,23.8,0.14,0.6,0.73
+Alexander Sørloth,Atlético Madrid,ESP-La Liga,29,0.59,0.0,3.09,51.5,0.19,0.37,1.59
+Antoine Griezmann,Atlético Madrid,ESP-La Liga,34,0.43,0.24,2.86,53.2,0.15,0.28,1.52
+Julián Álvarez,Atlético Madrid,ESP-La Liga,25,0.38,0.19,2.56,48.1,0.11,0.23,1.23
+Thiago Almada,Atlético Madrid,ESP-La Liga,24,0.21,0.07,1.44,47.6,0.14,0.3,0.69
+Álex Baena,Atlético Madrid,ESP-La Liga,24,0.12,0.17,1.67,24.1,0.07,0.29,0.4
+Ferrán Torres,Barcelona,ESP-La Liga,25,0.73,0.09,3.16,53.6,0.23,0.43,1.69
+Lamine Yamal,Barcelona,ESP-La Liga,18,0.64,0.44,4.66,31.6,0.11,0.35,1.47
+Marcus Rashford,Barcelona,ESP-La Liga,27,0.41,0.36,3.88,38.2,0.11,0.28,1.48
+Raphinha,Barcelona,ESP-La Liga,28,0.85,0.2,4.24,36.9,0.15,0.42,1.57
+Robert Lewandowski,Barcelona,ESP-La Liga,36,0.76,0.11,3.41,46.0,0.21,0.45,1.57
+Roony Bardghji,Barcelona,ESP-La Liga,19,0.14,0.14,3.06,54.5,0.05,0.08,1.67
+Borja Iglesias,Celta Vigo,ESP-La Liga,32,0.66,0.09,2.18,56.5,0.22,0.38,1.23
+Bryan Zaragoza,Celta Vigo,ESP-La Liga,23,0.08,0.08,2.07,46.2,0.0,0.0,0.95
+Fer López,Celta Vigo,ESP-La Liga,21,0.08,0.08,1.0,38.5,0.08,0.2,0.38
+Ferran Jutglà,Celta Vigo,ESP-La Liga,26,0.49,0.16,2.45,57.8,0.2,0.35,1.42
+Hugo Álvarez,Celta Vigo,ESP-La Liga,22,0.27,0.13,0.94,57.1,0.29,0.5,0.54
+Iago Aspas,Celta Vigo,ESP-La Liga,37,0.39,0.24,2.21,42.9,0.11,0.25,0.95
+Jones El-Abdellaoui,Celta Vigo,ESP-La Liga,19,0.26,0.0,2.25,23.5,0.12,0.5,0.53
+Pablo Durán,Celta Vigo,ESP-La Liga,24,0.13,0.13,2.34,40.5,0.05,0.13,0.95
+Williot Swedberg,Celta Vigo,ESP-La Liga,21,0.35,0.35,1.63,52.2,0.22,0.42,0.85
+André Silva,Elche,ESP-La Liga,29,0.49,0.0,2.77,50.9,0.12,0.24,1.41
+Grady Diangana,Elche,ESP-La Liga,27,0.1,0.0,1.56,12.5,0.06,0.5,0.19
+Rafa Mir,Elche,ESP-La Liga,28,0.4,0.0,3.44,52.2,0.1,0.19,1.8
+Rodrigo Mendoza,Elche,ESP-La Liga,20,0.11,0.0,1.25,18.2,0.09,0.5,0.23
+Álvaro Rodríguez,Elche,ESP-La Liga,21,0.29,0.2,3.07,32.0,0.09,0.29,0.98
+Javi Puado,Espanyol,ESP-La Liga,27,0.27,0.0,2.0,60.0,0.07,0.11,1.2
+Kiké,Espanyol,ESP-La Liga,35,0.42,0.05,3.11,45.0,0.12,0.26,1.4
+Pere Milla,Espanyol,ESP-La Liga,32,0.32,0.05,2.69,35.6,0.12,0.33,0.96
+Roberto Férnandez,Espanyol,ESP-La Liga,23,0.26,0.11,2.23,39.0,0.1,0.26,0.87
+Adrián Liso,Getafe,ESP-La Liga,20,0.16,0.0,1.37,38.5,0.12,0.3,0.53
+Borja Mayoral,Getafe,ESP-La Liga,28,0.34,0.09,1.28,46.7,0.27,0.57,0.6
+Mario Martín,Getafe,ESP-La Liga,21,0.08,0.04,1.1,23.1,0.08,0.33,0.25
+Martin Satriano,Getafe,ESP-La Liga,24,0.34,0.06,1.97,40.0,0.17,0.43,0.79
+Álex Sancris,Getafe,ESP-La Liga,28,0.0,0.13,1.65,38.5,0.0,0.0,0.64
+Bryan Gil,Girona,ESP-La Liga,24,0.0,0.17,1.54,25.9,0.0,0.0,0.4
+Claudio Echeverri,Girona,ESP-La Liga,19,0.14,0.14,3.03,33.3,0.05,0.14,1.01
+Joel Roca,Girona,ESP-La Liga,20,0.18,0.06,2.93,33.3,0.06,0.19,0.98
+Viktor Tsyhankov,Girona,ESP-La Liga,27,0.21,0.17,1.75,41.2,0.12,0.29,0.72
+Vladyslav Vanat,Girona,ESP-La Liga,23,0.42,0.05,1.25,66.7,0.22,0.33,0.83
+Yaser Asprilla,Girona,ESP-La Liga,21,0.0,0.0,2.21,33.3,0.0,0.0,0.74
+Brugui,Levante,ESP-La Liga,28,0.09,0.09,2.51,32.1,0.04,0.11,0.81
+Carlos Espí,Levante,ESP-La Liga,20,0.74,0.0,3.82,42.1,0.19,0.46,1.61
+Iván Romero,Levante,ESP-La Liga,24,0.28,0.04,2.35,30.5,0.12,0.39,0.72
+Karl Etta Eyong,Levante,ESP-La Liga,21,0.38,0.13,2.73,48.8,0.14,0.29,1.33
+Víctor García,Levante,ESP-La Liga,27,0.17,0.09,1.64,42.1,0.11,0.25,0.69
+Jan Virgili,Mallorca,ESP-La Liga,19,0.1,0.2,1.61,50.0,0.06,0.13,0.8
+Mateo Joseph,Mallorca,ESP-La Liga,21,0.11,0.16,1.75,42.4,0.06,0.14,0.74
+Pablo Torre,Mallorca,ESP-La Liga,22,0.23,0.23,1.41,48.0,0.16,0.33,0.68
+Takuma Asano,Mallorca,ESP-La Liga,30,0.14,0.0,2.3,11.8,0.06,0.5,0.27
+Vedat Muriqi,Mallorca,ESP-La Liga,31,0.66,0.03,3.28,43.9,0.16,0.36,1.44
+Aimar Oroz,Osasuna,ESP-La Liga,23,0.0,0.08,1.22,13.8,0.0,0.0,0.17
+Ante Budimir,Osasuna,ESP-La Liga,34,0.52,0.0,3.16,39.8,0.11,0.27,1.26
+Raúl,Osasuna,ESP-La Liga,24,0.61,0.09,3.37,59.0,0.18,0.3,1.99
+Rubén García,Osasuna,ESP-La Liga,32,0.08,0.2,1.25,32.3,0.06,0.2,0.4
+Víctor Muñoz,Osasuna,ESP-La Liga,22,0.2,0.07,2.74,38.3,0.07,0.19,1.05
+Federico Viñas,Oviedo,ESP-La Liga,27,0.33,0.04,2.1,36.8,0.12,0.33,0.77
+Haissem Hassan,Oviedo,ESP-La Liga,23,0.0,0.14,1.58,23.5,0.0,0.0,0.37
+Ilyas Chaira,Oviedo,ESP-La Liga,24,0.22,0.07,2.98,43.2,0.07,0.17,1.29
+Luka Ilić,Oviedo,ESP-La Liga,26,0.12,0.0,1.09,55.6,0.11,0.2,0.61
+Salomón Rondón,Oviedo,ESP-La Liga,35,0.17,0.0,2.09,20.8,0.08,0.4,0.44
+Thiago Fernández,Oviedo,ESP-La Liga,21,0.0,0.44,1.43,38.5,0.0,0.0,0.55
+Alexandre Alemão,Rayo Vallecano,ESP-La Liga,27,0.32,0.0,2.06,46.2,0.15,0.33,0.95
+Francisco Perez,Rayo Vallecano,ESP-La Liga,22,0.15,0.07,1.24,47.1,0.12,0.25,0.58
+Ilias Akhomach,Rayo Vallecano,ESP-La Liga,21,0.0,0.13,2.28,33.3,0.0,0.0,0.76
+Isaac Palazón Camacho,Rayo Vallecano,ESP-La Liga,30,0.12,0.12,2.08,28.8,0.02,0.07,0.6
+Jorge de Frutos,Rayo Vallecano,ESP-La Liga,28,0.37,0.04,2.27,45.2,0.15,0.32,1.02
+Sergio Camello,Rayo Vallecano,ESP-La Liga,24,0.55,0.11,2.95,51.9,0.19,0.36,1.53
+Álvaro García,Rayo Vallecano,ESP-La Liga,32,0.17,0.21,2.01,40.4,0.09,0.21,0.81
+Abde Ezzalzouli,Real Betis,ESP-La Liga,23,0.4,0.32,2.92,35.6,0.14,0.38,1.04
+Antony,Real Betis,ESP-La Liga,25,0.29,0.22,3.31,37.8,0.09,0.24,1.25
+Cucho,Real Betis,ESP-La Liga,26,0.38,0.1,3.1,30.3,0.11,0.37,0.94
+Brahim Díaz,Real Madrid,ESP-La Liga,25,0.07,0.43,1.07,46.7,0.07,0.14,0.5
+Franco Mastantuono,Real Madrid,ESP-La Liga,17,0.09,0.0,2.6,23.3,0.03,0.14,0.61
+Gonzalo García,Real Madrid,ESP-La Liga,21,0.56,0.09,1.96,52.4,0.29,0.55,1.03
+Kylian Mbappé,Real Madrid,ESP-La Liga,26,0.87,0.17,5.06,43.2,0.12,0.27,2.18
+Rodrygo,Real Madrid,ESP-La Liga,24,0.13,0.39,3.55,40.7,0.04,0.09,1.45
+Vinicius Júnior,Real Madrid,ESP-La Liga,25,0.51,0.16,3.2,46.0,0.12,0.26,1.47
+Brais Méndez,Real Sociedad,ESP-La Liga,28,0.33,0.11,1.95,44.4,0.14,0.31,0.87
+Luka Sučić,Real Sociedad,ESP-La Liga,22,0.26,0.09,2.03,30.4,0.13,0.43,0.62
+Mikel Oyarzabal,Real Sociedad,ESP-La Liga,28,0.5,0.13,2.62,45.6,0.1,0.22,1.2
+Orri Steinn Óskarsson,Real Sociedad,ESP-La Liga,20,0.97,0.0,2.91,70.4,0.33,0.47,2.05
+Akor Adams,Sevilla,ESP-La Liga,25,0.44,0.13,2.66,49.2,0.11,0.23,1.31
+Alexis Sánchez,Sevilla,ESP-La Liga,36,0.28,0.14,1.72,36.0,0.12,0.33,0.62
+Chidera Ejuke,Sevilla,ESP-La Liga,27,0.1,0.1,2.22,13.0,0.04,0.33,0.29
+Isaac Romero,Sevilla,ESP-La Liga,25,0.24,0.0,2.49,34.1,0.1,0.29,0.85
+Neal Maupay,Sevilla,ESP-La Liga,28,0.21,0.1,1.77,41.2,0.12,0.29,0.73
+Peque,Sevilla,ESP-La Liga,22,0.18,0.09,1.37,40.0,0.13,0.33,0.55
+Ruben Vargas,Sevilla,ESP-La Liga,26,0.17,0.34,2.31,19.5,0.05,0.25,0.45
+Arnaut Danjuma,Valencia,ESP-La Liga,28,0.17,0.11,1.99,38.9,0.08,0.21,0.77
+Diego López,Valencia,ESP-La Liga,23,0.2,0.05,1.43,28.6,0.14,0.5,0.41
+Hugo Duro,Valencia,ESP-La Liga,25,0.45,0.0,1.64,38.9,0.25,0.64,0.64
+Javier Guerra,Valencia,ESP-La Liga,22,0.17,0.26,1.35,38.7,0.13,0.33,0.52
+Largie Ramazani,Valencia,ESP-La Liga,24,0.44,0.07,3.72,37.3,0.06,0.16,1.39
+Lucas Beltrán,Valencia,ESP-La Liga,24,0.07,0.13,2.24,26.5,0.03,0.11,0.59
+Umar Sadiq,Valencia,ESP-La Liga,28,0.4,0.2,2.47,40.0,0.16,0.4,0.99
+Ayoze Pérez,Villarreal,ESP-La Liga,32,0.4,0.32,1.92,45.8,0.17,0.36,0.88
+Georges Mikautadze,Villarreal,ESP-La Liga,24,0.55,0.26,2.77,49.2,0.2,0.41,1.37
+Gerard Moreno,Villarreal,ESP-La Liga,33,0.67,0.0,2.61,41.0,0.18,0.44,1.07
+Nicolas Pépé,Villarreal,ESP-La Liga,30,0.3,0.3,2.37,39.7,0.11,0.28,0.94
+Tani Oluwaseyi,Villarreal,ESP-La Liga,25,0.2,0.2,1.6,43.8,0.13,0.29,0.7
