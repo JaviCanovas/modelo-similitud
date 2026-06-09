@@ -18,7 +18,11 @@ def ajustar_metricas_por_coeficiente(df: pd.DataFrame) -> pd.DataFrame:
     """
     coeficientes = {
         'ESP-La Liga': 1.0,
-        'BEL-Pro League': 0.85
+        'ESP-La Liga 2': 0.8,
+        'BEL-Pro League': 0.85,
+        'AUS-A-League': 0.7,
+        'BRA-Serie A': 0.9,
+        'CHI-Primera Division': 0.75
     }
     
     df_ajustado = df.copy()

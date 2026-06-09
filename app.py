@@ -69,10 +69,10 @@ def main():
         return
     
     # 1. Filtro de Liga Objetivo
-    ligas_disponibles = ['Ambas'] + df['league'].dropna().unique().tolist()
+    ligas_disponibles = ['Todas'] + df['league'].dropna().unique().tolist()
     liga_objetivo = st.sidebar.selectbox("Liga Objetivo", options=ligas_disponibles)
     
-    if liga_objetivo == 'Ambas':
+    if liga_objetivo == 'Todas':
         df_filtrado = df.copy()
     else:
         df_filtrado = df[df['league'] == liga_objetivo]
@@ -98,7 +98,7 @@ def main():
             return
             
         # Filtramos los resultados por la liga objetivo
-        if liga_objetivo != 'Ambas':
+        if liga_objetivo != 'Todas':
             df_sim = df_sim[df_sim['league'] == liga_objetivo]
             
         # Obtenemos top N (excluyendo al propio jugador si está en la misma liga)

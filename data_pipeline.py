@@ -15,21 +15,46 @@ def run_pipeline():
         
         logging.info(f"Iniciando extracción de datos para la temporada {season}...")
         try:
-            fbref = sd.FBref(leagues=["ESP-La Liga", "BEL-Pro League", "ESP-La Liga 2"], seasons=season)
+            fbref_eur = sd.FBref(leagues=["ESP-La Liga", "BEL-Pro League", "AUS-A-League"], seasons='2526')
+            df_standard_eur = fbref_eur.read_player_season_stats(stat_type="standard").reset_index()
+            df_shooting_eur = fbref_eur.read_player_season_stats(stat_type="shooting").reset_index()
         except ValueError as ve:
-            logging.warning(f"Error cargando ligas: {ve}")
-            logging.info("Haciendo fallback a 'ESP-La Liga' y 'BEL-Pro League'.")
-            fbref = sd.FBref(leagues=["ESP-La Liga", "BEL-Pro League"], seasons=season)
+            logging.warning(f"Error cargando ligas EUR/AUS: {ve}")
+            try:
+                fbref_eur = sd.FBref(leagues=["ESP-La Liga", "BEL-Pro League", "AUS-A-League"], seasons='2526')
+                df_standard_eur = fbref_eur.read_player_season_stats(stat_type="standard").reset_index()
+                df_shooting_eur = fbref_eur.read_player_season_stats(stat_type="shooting").reset_index()
+            except:
+                df_standard_eur = pd.DataFrame()
+                df_shooting_eur = pd.DataFrame()
+
+        try:
+            # Brasil y Chile tienen temporadas anuales (ej. 2025 o 2026), probamos '25' o '2025' dependiendo de FBref
+            fbref_sa = sd.FBref(leagues=["BRA-Serie A", "CHI-Primera Division"], seasons='25')
+            df_standard_sa = fbref_sa.read_player_season_stats(stat_type="standard").reset_index()
+            df_shooting_sa = fbref_sa.read_player_season_stats(stat_type="shooting").reset_index()
+        except Exception as e:
+            logging.warning(f"Error cargando ligas SA (intento 25): {e}. Intentando '24'...")
+            try:
+                fbref_sa = sd.FBref(leagues=["BRA-Serie A", "CHI-Primera Division"], seasons='24')
+                df_standard_sa = fbref_sa.read_player_season_stats(stat_type="standard").reset_index()
+                df_shooting_sa = fbref_sa.read_player_season_stats(stat_type="shooting").reset_index()
+            except Exception as e2:
+                logging.warning(f"Error cargando ligas SA: {e2}")
+                df_standard_sa = pd.DataFrame()
+                df_shooting_sa = pd.DataFrame()
+
+        dfs_std = [df for df in [df_standard_eur, df_standard_sa] if not df.empty]
+        dfs_sht = [df for df in [df_shooting_eur, df_shooting_sa] if not df.empty]
+
+        if not dfs_std:
+            logging.error("No se han podido extraer datos de ninguna liga.")
+            return
+
+        df_standard = pd.concat(dfs_std, ignore_index=True)
+        df_shooting = pd.concat(dfs_sht, ignore_index=True)
         
-        logging.info("Extrayendo tabla 'standard'...")
-        df_standard = fbref.read_player_season_stats(stat_type="standard")
-        
-        logging.info("Extrayendo tabla 'shooting'...")
-        df_shooting = fbref.read_player_season_stats(stat_type="shooting")
-        
-        # soccerdata genera MultiIndex (league, season, team, player). Reseteamos.
-        df_standard = df_standard.reset_index()
-        df_shooting = df_shooting.reset_index()
+        # soccerdata genera MultiIndex (league, season, team, player) que ya hemos reseteado en las funciones
         
         logging.info("Uniendo tablas...")
         merge_cols = ['league', 'season', 'team', 'player']

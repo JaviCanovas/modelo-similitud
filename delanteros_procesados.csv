@@ -1,4 +1,54 @@
 player,team,league,age,gls_per90,ast_per90,sh_per90,sot_pct,goals_per_shot,goals_per_sot,sot_per90
+Craig Goodwin,Adelaide United,AUS-A-League,33,0.23,0.31,1.31,41.2,0.18,0.43,0.54
+Jonny Yull,Adelaide United,AUS-A-League,20,0.2,0.25,2.03,51.2,0.1,0.19,1.04
+Luka Jovanovic,Adelaide United,AUS-A-League,20,0.61,0.17,3.05,41.8,0.2,0.48,1.27
+Guillermo May,Auckland FC,AUS-A-League,27,0.33,0.26,3.31,34.0,0.1,0.29,1.12
+Jesse Randall,Auckland FC,AUS-A-League,22,0.38,0.26,3.37,39.2,0.11,0.29,1.32
+Lachlan Brook,Auckland FC,AUS-A-League,24,0.41,0.05,3.29,29.2,0.12,0.42,0.96
+Sam Cosgrove,Auckland FC,AUS-A-League,28,0.51,0.19,3.22,43.5,0.16,0.37,1.4
+Chris Long,Brisbane,AUS-A-League,30,0.35,0.09,2.11,45.8,0.13,0.27,0.96
+Justin Vidic,Brisbane,AUS-A-League,21,0.28,0.14,2.65,31.6,0.11,0.33,0.84
+Michael Ruhs,Brisbane,AUS-A-League,22,0.06,0.13,1.61,32.0,0.04,0.13,0.51
+Ali Auglah,Central Coast Mariners,AUS-A-League,23,0.41,0.0,1.33,43.8,0.31,0.71,0.58
+Bailey Brandtman,Central Coast Mariners,AUS-A-League,20,0.32,0.16,1.85,21.7,0.17,0.8,0.4
+Miguel Di Pizio,Central Coast Mariners,AUS-A-League,19,0.2,0.26,1.89,20.7,0.1,0.5,0.39
+Oliver Lavale,Central Coast Mariners,AUS-A-League,20,0.19,0.0,1.31,50.0,0.14,0.29,0.65
+Sabit James,Central Coast Mariners,AUS-A-League,24,0.27,0.0,0.94,71.4,0.29,0.4,0.67
+Sebit Ngor,Central Coast Mariners,AUS-A-League,24,0.51,0.13,2.78,45.5,0.18,0.4,1.26
+Dean Bosnjak,Macarthur FC,AUS-A-League,18,0.24,0.08,2.13,37.0,0.11,0.3,0.79
+Harry Sawyer,Macarthur FC,AUS-A-League,28,0.49,0.08,3.99,40.8,0.08,0.2,1.63
+Mitchell Duke,Macarthur FC,AUS-A-League,34,0.53,0.32,3.26,29.0,0.16,0.56,0.95
+Rafa Durán,Macarthur FC,AUS-A-League,27,0.36,0.18,2.26,48.0,0.16,0.33,1.08
+Andrew Nabbout,Melb City,AUS-A-League,32,0.23,0.0,2.39,14.3,0.1,0.67,0.34
+Elba Rashani,Melb City,AUS-A-League,32,0.13,0.13,2.14,23.5,0.06,0.25,0.5
+Kavian Rahmani,Melb City,AUS-A-League,18,0.2,0.0,1.12,45.5,0.18,0.4,0.51
+Marcus Younis,Melb City,AUS-A-League,20,0.77,0.33,3.41,48.4,0.19,0.4,1.65
+Max Caputo,Melb City,AUS-A-League,19,0.46,0.06,2.37,41.5,0.17,0.41,0.98
+Medin Memeti,Melb City,AUS-A-League,18,0.37,0.09,2.79,56.7,0.13,0.24,1.58
+Takeshi Kanamori,Melb City,AUS-A-League,31,0.1,0.21,1.57,33.3,0.07,0.2,0.52
+Charles Nduka,Melbourne Victory,AUS-A-League,26,0.57,0.23,2.41,52.4,0.24,0.45,1.26
+Nikos Vergos,Melbourne Victory,AUS-A-League,29,0.51,0.07,3.27,46.7,0.16,0.33,1.53
+Ben Gibson,Newcastle Jets,AUS-A-League,22,0.52,0.13,2.71,61.9,0.19,0.31,1.68
+Clayton Taylor,Newcastle Jets,AUS-A-League,21,0.62,0.14,3.08,37.8,0.2,0.53,1.17
+Eli Adams,Newcastle Jets,AUS-A-League,23,0.55,0.27,3.47,41.2,0.14,0.33,1.43
+Lachlan Rose,Newcastle Jets,AUS-A-League,26,0.45,0.06,2.6,41.3,0.15,0.37,1.07
+Adam Taggart,Perth Glory,AUS-A-League,32,0.32,0.13,3.56,32.1,0.09,0.28,1.14
+Jaiden Kucharski,Perth Glory,AUS-A-League,23,0.26,0.26,2.26,23.1,0.12,0.5,0.52
+Sebastian Despotovski,Perth Glory,AUS-A-League,19,0.24,0.08,2.44,25.8,0.1,0.38,0.63
+Tom Lawrence,Perth Glory,AUS-A-League,31,0.44,0.18,2.98,38.2,0.15,0.38,1.14
+Ahmet Arslan,Sydney FC,AUS-A-League,31,0.11,0.0,3.47,25.0,0.03,0.13,0.87
+Apostolos Stamatelopoulos,Sydney FC,AUS-A-League,26,0.24,0.0,2.3,47.4,0.11,0.22,1.09
+Piero Quispe,Sydney FC,AUS-A-League,23,0.04,0.22,0.96,31.8,0.05,0.14,0.31
+Víctor Campuzano,Sydney FC,AUS-A-League,28,0.21,0.16,2.95,41.8,0.07,0.17,1.23
+Carlo Armiento,Wellington Phoenix,AUS-A-League,26,0.29,0.11,2.64,47.8,0.11,0.23,1.26
+Corban Piper,Wellington Phoenix,AUS-A-League,22,0.23,0.23,2.03,50.0,0.11,0.22,1.02
+Ifeanyi Eze,Wellington Phoenix,AUS-A-League,26,0.43,0.04,2.47,43.1,0.17,0.4,1.06
+Ramy Najjarine,Wellington Phoenix,AUS-A-League,25,0.1,0.16,1.92,29.7,0.03,0.09,0.57
+Alou Kuol,Western Sydney Wanderers,AUS-A-League,24,0.13,0.0,2.29,27.8,0.06,0.2,0.64
+Bozhidar Kraev,Western Sydney Wanderers,AUS-A-League,28,0.23,0.09,2.46,37.0,0.09,0.25,0.91
+Brandon Borrello,Western Sydney Wanderers,AUS-A-League,30,0.23,0.12,3.55,27.9,0.05,0.18,0.99
+Kosta Barbarouses,Western Sydney Wanderers,AUS-A-League,35,0.27,0.07,2.3,35.3,0.06,0.17,0.81
+Ryan Fraser,Western Sydney Wanderers,AUS-A-League,31,0.42,0.31,3.01,34.5,0.14,0.4,1.04
 Adriano Bertaccini,Anderlecht,BEL-Pro League,24,0.35,0.06,3.55,41.0,0.1,0.24,1.46
 Luis Vázquez,Anderlecht,BEL-Pro League,24,0.26,0.0,2.87,45.5,0.09,0.2,1.3
 Mihajlo Cvetković,Anderlecht,BEL-Pro League,18,0.5,0.11,2.33,52.4,0.21,0.41,1.22
@@ -182,3 +232,184 @@ Georges Mikautadze,Villarreal,ESP-La Liga,24,0.55,0.26,2.77,49.2,0.2,0.41,1.37
 Gerard Moreno,Villarreal,ESP-La Liga,33,0.67,0.0,2.61,41.0,0.18,0.44,1.07
 Nicolas Pépé,Villarreal,ESP-La Liga,30,0.3,0.3,2.37,39.7,0.11,0.28,0.94
 Tani Oluwaseyi,Villarreal,ESP-La Liga,25,0.2,0.2,1.6,43.8,0.13,0.29,0.7
+Bernard,Atlético Mineiro,BRA-Serie A,32,0.07,0.07,1.19,31.3,0.06,0.2,0.37
+Hulk,Atlético Mineiro,BRA-Serie A,38,0.3,0.22,3.36,34.1,0.08,0.23,1.14
+Rony,Atlético Mineiro,BRA-Serie A,29,0.22,0.18,2.81,42.3,0.08,0.18,1.19
+Tomás Cuello,Atlético Mineiro,BRA-Serie A,24,0.07,0.07,2.92,30.8,0.03,0.08,0.9
+Ademir Santos,Bahia,BRA-Serie A,29,0.09,0.27,2.42,32.1,0.04,0.12,0.78
+Cauly Oliveira Souza,Bahia,BRA-Serie A,29,0.1,0.3,1.88,26.3,0.05,0.2,0.49
+Erick Pulga,Bahia,BRA-Serie A,24,0.16,0.16,2.72,35.3,0.06,0.17,0.96
+Luciano Rodríguez,Bahia,BRA-Serie A,21,0.23,0.0,3.3,37.9,0.07,0.18,1.25
+Rodrigo Nestor,Bahia,BRA-Serie A,24,0.51,0.0,2.16,57.1,0.24,0.42,1.23
+Tiago,Bahia,BRA-Serie A,19,0.3,0.2,1.8,44.4,0.17,0.38,0.8
+Willian José,Bahia,BRA-Serie A,33,0.47,0.26,2.64,45.2,0.13,0.29,1.19
+Arthur Cabral,Botafogo (RJ),BRA-Serie A,26,0.25,0.13,2.63,33.3,0.1,0.29,0.88
+Chris Ramos,Botafogo (RJ),BRA-Serie A,28,0.5,0.0,2.76,45.5,0.18,0.4,1.25
+Igor Jesus,Botafogo (RJ),BRA-Serie A,23,0.31,0.1,3.6,40.0,0.09,0.21,1.44
+Joaquín Correa,Botafogo (RJ),BRA-Serie A,30,0.2,0.0,1.9,52.6,0.11,0.2,1.0
+Aylon,Ceará,BRA-Serie A,32,0.23,0.0,2.39,33.3,0.1,0.29,0.8
+Pedro Henrique,Ceará,BRA-Serie A,34,0.26,0.2,2.15,39.4,0.12,0.31,0.85
+Pedro Raul,Ceará,BRA-Serie A,28,0.34,0.03,2.8,40.0,0.11,0.28,1.12
+Gui Negão,Corinthians,BRA-Serie A,17,0.29,0.1,1.24,38.5,0.23,0.6,0.48
+Memphis,Corinthians,BRA-Serie A,30,0.35,0.17,2.97,37.3,0.1,0.26,1.11
+Rodrigo Garro,Corinthians,BRA-Serie A,27,0.0,0.19,1.4,22.7,0.0,0.0,0.32
+Talles Magno,Corinthians,BRA-Serie A,22,0.09,0.09,2.72,24.1,0.03,0.14,0.66
+Yuri Alberto,Corinthians,BRA-Serie A,23,0.45,0.09,2.87,34.4,0.13,0.36,0.99
+Ángel Romero,Corinthians,BRA-Serie A,32,0.0,0.08,1.77,23.8,0.0,0.0,0.42
+Gabriel Barbosa,Cruzeiro,BRA-Serie A,28,0.5,0.17,3.91,42.6,0.11,0.25,1.66
+Kaio Jorge,Cruzeiro,BRA-Serie A,23,0.73,0.28,3.44,46.5,0.2,0.43,1.6
+Bruno Henrique,Flamengo,BRA-Serie A,34,0.4,0.0,2.73,40.0,0.13,0.32,1.09
+Gonzalo Plata,Flamengo,BRA-Serie A,24,0.27,0.07,1.67,40.0,0.16,0.4,0.67
+Pedro,Flamengo,BRA-Serie A,27,1.03,0.52,3.7,60.5,0.26,0.42,2.23
+Everaldo Stum,Fluminense,BRA-Serie A,33,0.13,0.0,2.6,28.2,0.05,0.18,0.73
+Germán Cano,Fluminense,BRA-Serie A,36,0.36,0.0,2.52,31.0,0.12,0.38,0.78
+Jhon Arias,Fluminense,BRA-Serie A,27,0.08,0.33,1.5,27.8,0.0,0.0,0.42
+John Kennedy,Fluminense,BRA-Serie A,22,0.29,0.14,2.73,47.4,0.05,0.11,1.29
+Adam Bareiro,Fortaleza,BRA-Serie A,28,0.71,0.2,2.84,67.9,0.21,0.32,1.93
+Breno,Fortaleza,BRA-Serie A,29,0.24,0.12,2.21,33.9,0.11,0.32,0.75
+Deyverson,Fortaleza,BRA-Serie A,33,0.54,0.0,2.61,38.2,0.18,0.46,1.0
+Juan Martín Lucero,Fortaleza,BRA-Serie A,33,0.19,0.06,1.85,37.9,0.1,0.27,0.7
+Lucca Prior,Fortaleza,BRA-Serie A,20,0.27,0.0,1.65,33.3,0.17,0.5,0.55
+Marinho,Fortaleza,BRA-Serie A,34,0.13,0.25,3.8,20.0,0.03,0.17,0.76
+Tomas Pochettino,Fortaleza,BRA-Serie A,28,0.18,0.23,2.52,37.2,0.07,0.19,0.94
+Yago Pikachu,Fortaleza,BRA-Serie A,32,0.13,0.06,1.56,29.2,0.0,0.0,0.45
+Alysson Edward,Grêmio,BRA-Serie A,18,0.05,0.1,2.1,32.5,0.03,0.08,0.68
+Andre Martins,Grêmio,BRA-Serie A,23,0.57,0.23,3.86,44.1,0.15,0.33,1.7
+Carlos Vinícius,Grêmio,BRA-Serie A,29,1.15,0.1,2.77,51.7,0.31,0.6,1.43
+Cristian Olivera,Grêmio,BRA-Serie A,22,0.14,0.0,1.89,37.0,0.07,0.2,0.7
+Martin Braithwaite,Grêmio,BRA-Serie A,33,0.37,0.06,2.29,43.2,0.05,0.13,0.99
+Alan Patrick,Internacional,BRA-Serie A,33,0.4,0.25,1.83,37.3,0.1,0.26,0.68
+Bruno Tabata,Internacional,BRA-Serie A,27,0.25,0.0,3.02,36.1,0.06,0.15,1.09
+Enner Valencia,Internacional,BRA-Serie A,35,0.14,0.0,2.01,42.9,0.07,0.17,0.86
+Johan Carbonero,Internacional,BRA-Serie A,25,0.31,0.12,2.66,39.5,0.09,0.24,1.05
+Rafael Borré,Internacional,BRA-Serie A,29,0.25,0.1,2.44,30.6,0.08,0.27,0.75
+Ricardo Mathias,Internacional,BRA-Serie A,18,0.56,0.11,2.89,50.0,0.19,0.38,1.45
+Vitinho,Internacional,BRA-Serie A,25,0.27,0.05,1.93,27.8,0.14,0.5,0.54
+Wesley,Internacional,BRA-Serie A,25,0.0,0.22,2.04,32.1,0.0,0.0,0.66
+Enmerson Batalla,Juventude,BRA-Serie A,23,0.27,0.14,1.71,48.0,0.16,0.33,0.82
+Gabriel Taliari,Juventude,BRA-Serie A,27,0.31,0.16,2.39,31.1,0.13,0.42,0.74
+Gabriel Veron,Juventude,BRA-Serie A,22,0.0,0.0,0.85,33.3,0.0,0.0,0.28
+Gilberto,Juventude,BRA-Serie A,35,0.16,0.16,1.88,47.8,0.09,0.18,0.9
+Giovanny,Juventude,BRA-Serie A,27,0.0,0.28,2.34,17.6,0.0,0.0,0.41
+Luis Mandaca,Juventude,BRA-Serie A,23,0.07,0.04,2.1,29.8,0.04,0.12,0.63
+Nenê,Juventude,BRA-Serie A,43,0.27,0.36,2.14,50.0,0.04,0.08,1.07
+Rafael Bilu,Juventude,BRA-Serie A,25,0.13,0.0,1.31,40.0,0.1,0.25,0.52
+Ênio,Juventude,BRA-Serie A,23,0.24,0.0,1.87,39.1,0.13,0.33,0.73
+Alesson,Mirassol,BRA-Serie A,25,0.37,0.31,1.85,40.0,0.2,0.5,0.74
+Carlos Eduardo,Mirassol,BRA-Serie A,28,0.25,0.61,2.33,47.4,0.05,0.11,1.1
+Cristian Renato,Mirassol,BRA-Serie A,24,0.33,0.2,2.93,43.2,0.11,0.26,1.27
+Edson Carioca,Mirassol,BRA-Serie A,27,0.31,0.15,2.47,37.5,0.13,0.33,0.92
+Francisco da Costa,Mirassol,BRA-Serie A,29,0.45,0.0,1.89,32.0,0.24,0.75,0.61
+Gabriel,Mirassol,BRA-Serie A,35,0.28,0.11,1.7,53.3,0.17,0.31,0.9
+Negueba,Mirassol,BRA-Serie A,25,0.29,0.13,2.21,37.7,0.13,0.35,0.83
+Estêvão Willian,Palmeiras,BRA-Serie A,17,0.0,0.32,2.06,10.5,0.0,0.0,0.22
+Facundo Torres,Palmeiras,BRA-Serie A,24,0.32,0.16,1.73,50.0,0.19,0.38,0.86
+Flaco López,Palmeiras,BRA-Serie A,24,0.54,0.09,3.96,42.0,0.11,0.27,1.67
+Mauricio,Palmeiras,BRA-Serie A,23,0.17,0.39,2.2,33.3,0.08,0.23,0.73
+Ramón Sosa,Palmeiras,BRA-Serie A,25,0.31,0.31,3.08,23.3,0.1,0.43,0.72
+Vitor Roque,Palmeiras,BRA-Serie A,19,0.68,0.13,3.32,51.3,0.19,0.38,1.7
+Eduardo Sasha,RB Bragantino,BRA-Serie A,32,0.32,0.12,2.32,53.4,0.09,0.16,1.24
+Isidro Pitta,RB Bragantino,BRA-Serie A,25,0.58,0.16,1.98,41.7,0.29,0.7,0.82
+Benjamín Rollheiser,Santos,BRA-Serie A,24,0.08,0.12,2.08,33.3,0.02,0.06,0.69
+Lautaro Díaz,Santos,BRA-Serie A,26,0.26,0.18,1.76,30.0,0.15,0.5,0.53
+Neymar,Santos,BRA-Serie A,32,0.47,0.06,3.3,44.6,0.11,0.24,1.47
+Thaciano,Santos,BRA-Serie A,29,0.44,0.0,2.49,29.4,0.18,0.6,0.73
+Tiquinho Soares,Santos,BRA-Serie A,34,0.14,0.22,2.23,25.8,0.0,0.0,0.58
+Álvaro Barreal,Santos,BRA-Serie A,24,0.36,0.04,2.25,35.7,0.14,0.4,0.8
+Derik Lacerda,Sport Recife,BRA-Serie A,25,0.37,0.0,3.17,37.3,0.1,0.26,1.18
+Leo Augusto Pereira,Sport Recife,BRA-Serie A,24,0.24,0.08,3.25,32.5,0.08,0.23,1.06
+Matheusinho,Sport Recife,BRA-Serie A,26,0.11,0.11,1.47,22.2,0.07,0.33,0.33
+Pablo,Sport Recife,BRA-Serie A,32,0.26,0.09,2.05,20.8,0.13,0.6,0.43
+Romarinho,Sport Recife,BRA-Serie A,30,0.2,0.0,1.97,20.0,0.1,0.5,0.39
+Ferreira,São Paulo,BRA-Serie A,27,0.28,0.23,2.11,35.1,0.14,0.38,0.74
+Gonzalo Tapia,São Paulo,BRA-Serie A,22,0.4,0.0,2.58,46.9,0.16,0.33,1.21
+Luciano,São Paulo,BRA-Serie A,31,0.38,0.17,3.25,34.2,0.11,0.31,1.11
+David,Vasco da Gama,BRA-Serie A,29,0.24,0.36,1.8,40.0,0.13,0.33,0.72
+Nuno Gonçalo Moreira,Vasco da Gama,BRA-Serie A,25,0.25,0.18,1.31,48.6,0.19,0.39,0.64
+Pablo Vegetti,Vasco da Gama,BRA-Serie A,36,0.54,0.04,2.62,33.8,0.16,0.48,0.89
+Rayan,Vasco da Gama,BRA-Serie A,18,0.44,0.03,2.92,42.4,0.13,0.31,1.24
+Aitor Cantalapiedra,Vitória,BRA-Serie A,28,0.21,0.21,1.84,42.3,0.12,0.27,0.78
+Erick,Vitória,BRA-Serie A,27,0.13,0.22,1.97,28.9,0.07,0.23,0.57
+Janderson,Vitória,BRA-Serie A,25,0.12,0.0,1.23,30.0,0.1,0.33,0.37
+Renato Kayser,Vitória,BRA-Serie A,28,0.39,0.0,2.07,35.4,0.17,0.47,0.73
+Renzo López,Vitória,BRA-Serie A,30,0.14,0.0,2.76,35.0,0.05,0.14,0.97
+Eduardo Vargas,Audax Italiano,CHI-Primera Division,35,0.39,0.2,1.68,35.3,0.24,0.67,0.59
+Lautaro Palacios,Audax Italiano,CHI-Primera Division,29,0.43,0.09,2.57,36.7,0.13,0.36,0.94
+Leonardo Valencia,Audax Italiano,CHI-Primera Division,33,0.61,0.37,2.79,39.7,0.07,0.19,1.11
+Luis Riveros,Audax Italiano,CHI-Primera Division,26,0.28,0.21,1.4,45.0,0.2,0.44,0.63
+Michael Fuentes,Audax Italiano,CHI-Primera Division,26,0.31,0.13,1.69,40.7,0.19,0.45,0.69
+Paolo Guajardo,Audax Italiano,CHI-Primera Division,21,0.08,0.08,1.5,38.9,0.06,0.14,0.58
+Daniel Castro,CD Limache,CHI-Primera Division,30,0.53,0.04,2.8,44.4,0.16,0.36,1.25
+Facundo Pons,CD Limache,CHI-Primera Division,29,0.71,0.0,2.62,54.5,0.27,0.5,1.43
+Luis Alejandro Guerra Romero,CD Limache,CHI-Primera Division,28,0.13,0.42,2.45,31.0,0.05,0.17,0.76
+Nelson Da Silva,CD Limache,CHI-Primera Division,28,0.26,0.26,2.49,31.0,0.1,0.33,0.77
+César Munder,Cobresal,CHI-Primera Division,25,0.29,0.08,2.13,45.1,0.14,0.3,0.96
+Diego Coelho,Cobresal,CHI-Primera Division,30,0.5,0.04,2.49,58.3,0.15,0.26,1.45
+Francisco Marchant,Colo-Colo,CHI-Primera Division,18,0.15,0.6,2.68,38.9,0.06,0.14,1.04
+Javier Marcelo Correa,Colo-Colo,CHI-Primera Division,32,0.49,0.18,5.58,33.3,0.09,0.26,1.86
+Lucas Cepeda,Colo-Colo,CHI-Primera Division,22,0.19,0.15,3.12,32.1,0.04,0.12,1.0
+Marcos Bolados,Colo-Colo,CHI-Primera Division,28,0.35,0.35,1.64,57.1,0.21,0.38,0.94
+Salomón Rodríguez,Colo-Colo,CHI-Primera Division,24,0.15,0.0,2.96,40.0,0.05,0.13,1.18
+Cecilio Waterman,Coquimbo Unido,CHI-Primera Division,33,0.48,0.05,2.55,37.7,0.13,0.35,0.96
+Matías Palavecino,Coquimbo Unido,CHI-Primera Division,26,0.15,0.29,1.97,33.3,0.06,0.17,0.66
+Nicolas Johansen,Coquimbo Unido,CHI-Primera Division,26,0.6,0.26,3.25,50.0,0.16,0.32,1.63
+Alan Medina,Everton,CHI-Primera Division,26,0.16,0.0,1.71,28.6,0.1,0.33,0.49
+Cristian Palacios,Everton,CHI-Primera Division,34,0.41,0.14,6.48,29.8,0.06,0.21,1.93
+Juan Ignacio Ramírez,Everton,CHI-Primera Division,27,0.27,0.27,2.47,44.4,0.0,0.0,1.1
+Matías Campos López,Everton,CHI-Primera Division,33,0.14,0.0,2.09,26.7,0.07,0.25,0.56
+Rodrigo Piñeiro,Everton,CHI-Primera Division,25,0.09,0.0,2.04,40.9,0.05,0.11,0.84
+Sebastián Sosa,Everton,CHI-Primera Division,30,0.44,0.22,2.59,48.6,0.09,0.18,1.26
+Cris Martínez,Huachipato,CHI-Primera Division,31,0.3,0.15,1.5,43.3,0.13,0.31,0.65
+Juan Figueroa,Huachipato,CHI-Primera Division,21,0.0,0.14,0.41,33.3,0.0,0.0,0.14
+Lionel Altamirano,Huachipato,CHI-Primera Division,32,0.46,0.15,3.27,40.0,0.07,0.18,1.31
+Mario Briceño,Huachipato,CHI-Primera Division,28,0.49,0.25,1.72,57.1,0.29,0.5,0.98
+Maximiliano Gutiérrez,Huachipato,CHI-Primera Division,20,0.19,0.0,3.18,42.9,0.06,0.14,1.36
+César González,Iquique,CHI-Primera Division,28,0.08,0.31,1.31,41.2,0.06,0.14,0.54
+Edson Puch,Iquique,CHI-Primera Division,38,0.15,0.15,1.95,44.7,0.05,0.12,0.87
+Enzo Hoyos,Iquique,CHI-Primera Division,24,0.21,0.1,1.86,27.8,0.06,0.2,0.52
+Steffan Pino,Iquique,CHI-Primera Division,30,0.27,0.11,3.18,32.8,0.07,0.21,1.04
+Álvaro Ramos,Iquique,CHI-Primera Division,32,0.6,0.0,2.81,55.8,0.21,0.38,1.57
+Esteban Moreira,La Serena,CHI-Primera Division,22,0.09,0.18,2.33,30.8,0.04,0.13,0.72
+Felipe Chamorro,La Serena,CHI-Primera Division,23,0.11,0.11,1.47,37.0,0.04,0.1,0.54
+Gonzalo Jara,La Serena,CHI-Primera Division,26,0.19,0.06,2.87,32.6,0.07,0.2,0.93
+Jeisson Vargas,La Serena,CHI-Primera Division,27,0.57,0.16,3.34,37.5,0.11,0.29,1.25
+Lautaro Ovando,La Serena,CHI-Primera Division,21,0.0,0.0,1.55,46.2,0.0,0.0,0.71
+Ángelo Henríquez,La Serena,CHI-Primera Division,30,0.26,0.17,2.23,42.3,0.12,0.27,0.94
+Arnaldo Castillo,O'Higgins,CHI-Primera Division,27,0.39,0.26,3.99,22.6,0.1,0.43,0.9
+Esteban Calderón,O'Higgins,CHI-Primera Division,20,0.38,0.28,3.02,25.0,0.13,0.5,0.75
+Martín Sarrafiore,O'Higgins,CHI-Primera Division,27,0.29,0.14,3.44,27.1,0.08,0.31,0.93
+Maximiliano Romero,O'Higgins,CHI-Primera Division,26,0.64,0.27,3.1,32.4,0.18,0.55,1.0
+Rodrigo Godoy,O'Higgins,CHI-Primera Division,19,0.0,0.22,1.75,15.6,0.0,0.0,0.27
+Joe Abrigo,Palestino,CHI-Primera Division,29,0.36,0.15,2.26,32.3,0.16,0.5,0.73
+Junior Arias,Palestino,CHI-Primera Division,31,0.45,0.0,2.24,43.3,0.17,0.38,0.97
+Junior Marabel,Palestino,CHI-Primera Division,26,0.43,0.16,3.36,42.9,0.11,0.26,1.44
+Clemente Montes,Universidad Católica,CHI-Primera Division,23,0.3,0.1,2.51,38.0,0.12,0.32,0.95
+Diego Valencia,Universidad Católica,CHI-Primera Division,25,0.26,0.13,1.86,41.4,0.1,0.25,0.77
+Eduard Bello,Universidad Católica,CHI-Primera Division,29,0.37,0.12,1.79,51.7,0.21,0.4,0.93
+Fernando Zampedri,Universidad Católica,CHI-Primera Division,36,0.66,0.12,3.06,50.0,0.14,0.27,1.53
+Jader,Universidad Católica,CHI-Primera Division,21,0.25,0.12,1.96,31.3,0.13,0.4,0.61
+Israel Poblete,Universidad de Chile,CHI-Primera Division,29,0.05,0.05,1.32,16.0,0.04,0.25,0.21
+Javier Urzúa,Universidad de Chile,CHI-Primera Division,25,0.25,0.1,1.84,29.7,0.14,0.45,0.55
+Leandro Fernández,Universidad de Chile,CHI-Primera Division,33,0.46,0.26,4.73,31.9,0.08,0.26,1.51
+Lucas Assadi,Universidad de Chile,CHI-Primera Division,21,0.44,0.65,3.05,35.7,0.14,0.4,1.09
+Lucas Di Yorio,Universidad de Chile,CHI-Primera Division,28,0.62,0.05,3.64,40.0,0.17,0.43,1.45
+Maximiliano Guerrero,Universidad de Chile,CHI-Primera Division,25,0.16,0.24,1.52,31.6,0.11,0.33,0.48
+Nicolás Guerra,Universidad de Chile,CHI-Primera Division,26,0.28,0.28,3.88,41.5,0.07,0.18,1.61
+Rodrigo Contreras,Universidad de Chile,CHI-Primera Division,29,0.87,0.1,4.28,38.6,0.16,0.41,1.65
+Ariel Uribe,Unión Española,CHI-Primera Division,25,0.05,0.05,2.13,45.0,0.03,0.06,0.96
+Fernando Ovelar,Unión Española,CHI-Primera Division,21,0.0,0.0,2.59,28.1,0.0,0.0,0.73
+Franco Ratotti,Unión Española,CHI-Primera Division,19,0.14,0.27,2.47,22.2,0.06,0.25,0.55
+Ignacio Jeraldino,Unión Española,CHI-Primera Division,29,0.28,0.09,2.45,35.8,0.09,0.26,0.88
+Pablo Aránguiz,Unión Española,CHI-Primera Division,27,0.46,0.13,2.37,35.7,0.13,0.35,0.85
+Cristian Insaurralde,Unión La Calera,CHI-Primera Division,33,0.26,0.39,1.96,40.0,0.13,0.33,0.78
+Franco Lobos,Unión La Calera,CHI-Primera Division,25,0.0,0.25,2.33,10.5,0.0,0.0,0.25
+Ignacio Mesías,Unión La Calera,CHI-Primera Division,24,0.15,0.05,2.26,34.1,0.07,0.2,0.77
+Leandro Benegas,Unión La Calera,CHI-Primera Division,36,0.29,0.0,2.16,53.3,0.13,0.25,1.15
+Sebastián Sáez,Unión La Calera,CHI-Primera Division,40,0.41,0.15,2.13,31.6,0.19,0.61,0.67
+Bayron Oyarzo,Ñublense,CHI-Primera Division,28,0.0,0.0,1.28,55.6,0.0,0.0,0.71
+Gabriel Graciani,Ñublense,CHI-Primera Division,31,0.21,0.05,2.73,23.5,0.08,0.33,0.64
+Gonzalo Sosa,Ñublense,CHI-Primera Division,36,0.61,0.07,4.42,29.2,0.08,0.26,1.29
+Lucas Molina,Ñublense,CHI-Primera Division,18,0.14,0.14,1.56,27.3,0.09,0.33,0.42
+Matías Plaza,Ñublense,CHI-Primera Division,23,0.14,0.05,2.0,19.0,0.07,0.38,0.38
+Patricio Rubio,Ñublense,CHI-Primera Division,35,0.33,0.16,2.89,34.0,0.09,0.28,0.98
+Pedro Sánchez,Ñublense,CHI-Primera Division,26,0.2,0.1,2.04,30.0,0.1,0.33,0.61
