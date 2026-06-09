@@ -81,6 +81,11 @@ def main():
         st.sidebar.warning("No hay jugadores en esta liga.")
         return
         
+    # 1.5 Filtro de Edad para los candidatos
+    min_age = int(df['age'].min())
+    max_age = int(df['age'].max())
+    rango_edad = st.sidebar.slider("Edad de los candidatos", min_value=min_age, max_value=max_age, value=(min_age, max_age))
+        
     # 2. Selección de Jugador a Reemplazar
     # El usuario podría querer buscar el reemplazo de cualquier jugador de la bbdd completa,
     # pero mostraremos los de la bbdd completa para buscar reemplazo en la liga objetivo,
@@ -100,6 +105,9 @@ def main():
         # Filtramos los resultados por la liga objetivo
         if liga_objetivo != 'Todas':
             df_sim = df_sim[df_sim['league'] == liga_objetivo]
+            
+        # Filtramos por el rango de edad seleccionado
+        df_sim = df_sim[(df_sim['age'] >= rango_edad[0]) & (df_sim['age'] <= rango_edad[1])]
             
         # Obtenemos top N (excluyendo al propio jugador si está en la misma liga)
         top_n = obtener_top_n(df_sim, jugador_seleccionado, n=5)
